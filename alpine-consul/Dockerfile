@@ -1,7 +1,7 @@
 FROM bhuisgen/alpine-base:latest
 LABEL maintainer="Boris HUISGEN <bhuisgen@hbis.fr>"
 
-ENV CONSUL_VERSION=0.9.3 \
+ENV CONSUL_VERSION=1.0.0 \
     CONSULTEMPLATE_VERSION=0.19.3
 
 RUN mkdir -p /var/lib/consul && \
