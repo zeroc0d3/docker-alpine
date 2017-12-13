@@ -30,6 +30,7 @@ SUBDIRS = \
     alpine-elasticsearch \
     alpine-fabric \
     alpine-git \
+    alpine-go \
     alpine-gogs \
     alpine-grafana \
     alpine-haproxy \
