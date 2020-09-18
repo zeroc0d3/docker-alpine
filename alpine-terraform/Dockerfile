@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.12.0
 LABEL maintainer="Boris HUISGEN <bhuisgen@hbis.fr>"
 
 ENV TERRAFORM_VERSION=0.11.10

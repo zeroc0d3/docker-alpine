@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.12.0
 LABEL maintainer="Boris HUISGEN <bhuisgen@hbis.fr>"
 
 ENV RABBITMQ_VERSION=3.7.3
